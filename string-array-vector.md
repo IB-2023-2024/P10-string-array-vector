@@ -1,4 +1,4 @@
-# Práctica 09. std::string std::array std::vector. Desarrollo dirigido por Tests. Exercism.
+# Práctica 10. std::string std::array std::vector. Desarrollo dirigido por Tests. Exercism.
 
 # Factor de ponderación: 8
 
